@@ -1,0 +1,32 @@
+table {
+  margin: auto;
+  text-align: center;
+}
+
+.jumbotron.hero {
+  background: burlywood url(avataaars.svg) no-repeat -38% 50%;
+  background-size: 55%;
+}
+
+/* 
+table,
+th,
+td {
+    border: 1px solid blue;
+}
+
+tbody>tr:nth-of-type(even) {
+    background-color: lightcoral;
+}
+
+tbody>tr:nth-of-type(odd) {
+    background-color: lightgreen;
+}
+
+thead>tr {
+    background-color: lightgray;
+} */
+#mc-field-group {
+  color: #fff !important;
+}
+/*# sourceMappingURL=header.css.map */

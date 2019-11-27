@@ -1,0 +1,73 @@
+table {
+  margin: auto;
+  text-align: center;
+}
+
+.jumbotron.hero {
+  background: burlywood url(avataaars.svg) no-repeat -38% 50%;
+  background-size: 55%;
+}
+
+/* 
+table,
+th,
+td {
+    border: 1px solid blue;
+}
+
+tbody>tr:nth-of-type(even) {
+    background-color: lightcoral;
+}
+
+tbody>tr:nth-of-type(odd) {
+    background-color: lightgreen;
+}
+
+thead>tr {
+    background-color: lightgray;
+} */
+#mc-field-group {
+  color: #fff !important;
+}
+
+table {
+  margin: auto;
+  text-align: center;
+  -webkit-transition: all 1s;
+  transition: all 1s;
+}
+
+.imgdiv {
+  display: inline-block;
+  border: 1px solid #000;
+  -webkit-box-shadow: 1px 1px 1px #020201;
+          box-shadow: 1px 1px 1px #020201;
+  max-width: 250px;
+  min-height: 100px;
+  text-align: center;
+  overflow: hidden;
+  max-width: 150px;
+}
+
+/* 
+table,
+th,
+td {
+    border: 1px solid blue;
+}
+
+tbody>tr:nth-of-type(even) {
+    background-color: lightcoral;
+}
+
+tbody>tr:nth-of-type(odd) {
+    background-color: lightgreen;
+}
+
+thead>tr {
+    background-color: lightgray;
+} */
+#mc-field-group {
+  color: #fff !important;
+}
+/*# sourceMappingURL=styles.css.map */

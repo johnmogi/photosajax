@@ -1,0 +1,44 @@
+@import "header";
+
+table {
+    margin: auto;
+    text-align: center;
+    transition : all 1s;
+}
+// div {
+//     display: inline-block;
+// }
+
+.imgdiv {
+    display: inline-block;
+    border: 1px solid #000;
+    box-shadow: 1px 1px 1px #020201;
+    max-width: 250px;
+    min-height: 100px;
+    text-align: center;
+    overflow: hidden;
+    max-width: 150px;
+}
+/* 
+table,
+th,
+td {
+    border: 1px solid blue;
+}
+
+tbody>tr:nth-of-type(even) {
+    background-color: lightcoral;
+}
+
+tbody>tr:nth-of-type(odd) {
+    background-color: lightgreen;
+}
+
+thead>tr {
+    background-color: lightgray;
+} */
+
+
+#mc-field-group {
+    color: #fff !important;
+}
